@@ -10,13 +10,13 @@
 ## Key Contributions as a Gameplay Engineer  
 
 ### **Player Movement and Trick System**  
-- Developed a responsive **movement system** with smooth transitions, including skating, jumping, and tricking mechanics.  
-- Implemented **trick animations** (kickflips, pop shuvits, and varial flips) and ensured tricks are contextually tied to in-game challenges.  
+- Developed a responsive movement system with smooth transitions, including skating, jumping, and tricking mechanics.  
+- Implemented trick animations (kickflips, pop shuvits, and varial flips) and ensured tricks are contextually tied to in-game challenges.  
 - Used physics-based interactions for realistic skateboard flips and rotations.  
 
 ### **Challenge and Reward System**  
 - Designed NPC quests where players must complete specific tricks under various conditions.  
-- Implemented a **money system**, rewarding players $10 for each successfully completed challenge.  
+- Implemented a money system, rewarding players $10 for each successfully completed challenge.  
 
 ### **Game Progression**  
 - Added a gatekeeper NPC ("The Bouncer") requiring $40 to enter the board show.  
