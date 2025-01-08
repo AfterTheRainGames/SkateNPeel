@@ -1,6 +1,6 @@
 # Skate N Peel  
 **Game Jam Submission**  
-*Style Theme | Limitation: On a Budget | June 21-24 2024*  
+*STYLE Theme | Limitation: On a Budget | June 21-24 2024*  
 
 ## Overview  
 **Skate N Peel** is a quirky skateboarding game featuring BananaMan, a skateboarding banana, as the protagonist. Players perform tricks like kickflips, pop shuvits, and varial flips to complete challenges given by NPCs, earn money, and gain access to the exclusive Board Show!  
