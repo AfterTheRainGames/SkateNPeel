@@ -54,4 +54,4 @@ Skate N Peel was a project that combined comedic themes with action-packed gamep
 ---
 
 ## Play the Game  
-[Play Skate N Peel on Itch.io]((https://aftertheraingames.itch.io/skate-n-peel))
+[Play Skate N Peel on Itch.io](#https://aftertheraingames.itch.io/skate-n-peel)
